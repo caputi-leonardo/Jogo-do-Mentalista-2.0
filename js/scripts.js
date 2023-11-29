@@ -9,7 +9,7 @@ let listaHistorico = [];
 let tentativas;
 
 function nMaximo() {
-    return parseInt(Math.random() * 10000 + 1);
+    return parseInt(Math.random() * 5000 + 1);
 }
 
 function nSecreto(numeroMaximo) {
