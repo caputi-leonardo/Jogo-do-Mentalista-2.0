@@ -1,0 +1,66 @@
+.botao-azul {
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #000;
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    margin-top: 5px;
+}
+
+.botao-azul:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.botao-azul:disabled {
+    background-color: #d3d3d3;
+    color: #a9a9a9;
+    border: 2px solid #a9a9a9;
+    cursor: not-allowed;
+}
+
+.botao-texto {
+    display: inline-block;
+    padding: 5px 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+    border: 2px solid #000;
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.botao-texto:disabled {
+    background-color: #d3d3d3;
+    color: #a9a9a9;
+    border: 2px solid #a9a9a9;
+    cursor: not-allowed;
+}
+
+.textoEsquerda {
+    text-align: right;
+
+}
+
+.topoMargem {
+    margin-top: 33px;
+}
+
+li {
+    list-style: none;
+}
+
+.alinhaTela {
+    margin-left: auto;
+    margin-right: auto;
+}
