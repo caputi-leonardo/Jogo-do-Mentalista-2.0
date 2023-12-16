@@ -4,7 +4,8 @@
 Bem-vindo ao Jogo de Adivinhação! Este projeto é uma fusão de design elegante, programação envolvente e desafios divertidos.
 
 Descrição:  
-Este jogo é construído com HTML, CSS e JavaScript. A estrutura inicial do HTML e CSS foi inspirada em um projeto encontrado no Start Bootstrap, enquanto o código JavaScript foi desenvolvido do zero para fins de estudo. O jogo gera números aleatórios, proporcionando aos usuários uma experiência única de adivinhação.
+Este jogo é construído com HTML, CSS e JavaScript. A estrutura inicial do HTML, CSS e JavaScript foi desenvolvido do zero para fins de estudo. 
+O jogo gera números aleatórios, proporcionando aos usuários uma experiência única de adivinhação.
 
 O que o projeto faz:  
 O Jogo de Adivinhação desafia os usuários a decifrarem números aleatórios gerados dinamicamente. Utilizando HTML, CSS e JavaScript, proporciona uma experiência interativa e educativa.
