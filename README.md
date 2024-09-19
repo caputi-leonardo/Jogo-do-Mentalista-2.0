@@ -1,14 +1,22 @@
-# Jogo-do-Mentalista-2.0
+## Adivinhe o Número 
+
+**Desafie sua sorte e habilidade com números!**
+
+Este jogo divertido e desafiador te convida a adivinhar um número aleatório. Com diferentes níveis de dificuldade, você pode personalizar a sua experiência e testar seus conhecimentos em matemática.
+
+**Funcionalidades:**
+* Níveis de dificuldade ajustáveis
+* Dicas para te ajudar a acertar
+* Design moderno e intuitivo
+
+**Como jogar:**
+1. Escolha um nível de dificuldade.
+2. Digite seu palpite e clique em "Chutar".
+3. Receba dicas para se aproximar do número secreto.
+4. Descubra o número e veja sua pontuação!
+
+**Tecnologias utilizadas:**
+HTML, CSS, JavaScript
 
 
-Bem-vindo ao Jogo de Adivinhação! Este projeto é uma fusão de design elegante, programação envolvente e desafios divertidos.
-
-Descrição:  
-Este jogo é construído com HTML, CSS e JavaScript. A estrutura inicial do HTML, CSS e JavaScript foi desenvolvido do zero para fins de estudo. 
-O jogo gera números aleatórios, proporcionando aos usuários uma experiência única de adivinhação.
-
-O que o projeto faz:  
-O Jogo de Adivinhação desafia os usuários a decifrarem números aleatórios gerados dinamicamente. Utilizando HTML, CSS e JavaScript, proporciona uma experiência interativa e educativa.
-
-Por que o projeto é útil:  
-Além de oferecer entretenimento, este projeto serve como uma plataforma de aprendizado para iniciantes e entusiastas da programação. Ele combina conceitos de design, lógica de programação e manipulação de eventos em um contexto prático.
+Projeto Desenvolvido para aprendizado de noções de JavaScript envolvendo funções e integração com Html.
